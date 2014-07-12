@@ -1,4 +1,4 @@
-## caching operations
+## Assignment 2 Week 1
 
 ## This function creates a special "matrix" object that can cache its inverse.
 
